@@ -19,4 +19,6 @@
   </a>
 </div>
 
+<img align="right" alt="Fuhor-Pic" height="150" style="border-radius:50px;" src="https://i.redd.it/r9i4b4833xm21.jpg">
+
   ![snake gif](https://github.com/Fuhor/Fuhor/blob/output/github-contribution-grid-snake.svg)  
