@@ -1,4 +1,4 @@
-### Olá! Meu nome é Gabriel Vieira, conhecido também como Fuhor. 👋
+### Olá! Meu nome é Gabriel Vieira, conhecido popularmente também como Fuhor. 👋
 
 
 - Tenho um conhecimento mediano em Delphi 7/10. 💻
