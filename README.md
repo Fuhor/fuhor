@@ -1,8 +1,8 @@
 ### Olá! Meu nome é Gabriel Vieira, conhecido popularmente também como Fuhor. 👋
 
 
-- Tenho um conhecimento mediano em Delphi 7/10. 💻
-- Atualmente estou focado estudando HTML, CSS e JavaScript. 👨‍💻
+- Tenho um conhecimento mediano em Delphi 7, 10. 💻
+- Atualmente estou focado estudando HTML, CSS e Python3. 👨‍💻
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fuhor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
